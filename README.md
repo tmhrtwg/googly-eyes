@@ -1,2 +1,2 @@
-# googly-eyes
+# 👀 googly-eyes 👀
 Googly eyes for everyone!
